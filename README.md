@@ -12,6 +12,10 @@ Graphing:
 
 # Examples
 
-## Json <3
+## JSON <3
 
-* 
+* https://github.com/bradosia/python-nba-api/tree/master/src/example_json
+
+## HTTPS GET Requests
+
+* https://github.com/bradosia/python-nba-api/tree/master/src/example_https
