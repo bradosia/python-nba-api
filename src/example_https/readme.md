@@ -1,5 +1,5 @@
 # Example - JSON
 
-'''shell
+```shell
 python main.py
-'''
+```
