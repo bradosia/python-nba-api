@@ -9,3 +9,9 @@ Machine Learning:
 
 Graphing:
 * https://plot.ly/python/v3/
+
+# Examples
+
+## Json <3
+
+* 
