@@ -19,3 +19,7 @@ Graphing:
 ## HTTPS GET Requests
 
 * https://github.com/bradosia/python-nba-api/tree/master/src/example_https
+
+## Access data.nba.net API
+
+* https://github.com/bradosia/python-nba-api/tree/master/src/example_net_nba_data
