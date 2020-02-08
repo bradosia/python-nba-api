@@ -1,7 +1,10 @@
-# python-nba-api
+# NBA API access for python
 
-API:
+data.nba.net API:
 * http://nbasense.com/nba-api/Data/Prod/Game/Boxscore
+* https://www.quora.com/Is-there-an-NBA-API-for-free-that-has-live-stats
+
+stats.nba.com API:
 * https://github.com/swar/nba_api/blob/master/docs/nba_api/stats/examples.md
 
 Machine Learning:
